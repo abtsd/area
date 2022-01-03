@@ -1,7 +1,7 @@
 name: area
-description: A new Flutter package project.
+description: The area Flutter package.
 version: 0.0.1
-homepage: https://sites.google.com/view/dietmarabts
+homepage: https://github.com/abtsd/area
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
